@@ -1,7 +1,6 @@
-{
-  "Planilha1": [
+[
     {
-      "UF": "RN",
+      "id": 1,
       "MUNICÍPIOS": "ACARI",
       "IBGE": "240010",
       "Parcela": "JUN/2022",
@@ -20,197 +19,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "AFONSO BEZERRA",
-      "IBGE": "240030",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 5,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 5,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 18.397,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "ALEXANDRIA",
-      "IBGE": "240050",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 7,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 7,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 7,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 25.756,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "ALMINO AFONSO",
-      "IBGE": "240060",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "ALTO DO RODRIGUES",
-      "IBGE": "240070",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 5,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 5,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 18.397,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "ANGICOS",
-      "IBGE": "240080",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 5,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 5,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 18.397,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "ANTÔNIO MARTINS",
-      "IBGE": "240090",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "APODI",
-      "IBGE": "240100",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 11,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 11,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 28.209,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "AREIA BRANCA",
-      "IBGE": "240110",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 9,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 8,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 20.850,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "ARÊS",
-      "IBGE": "240120",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 5,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 5,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 18.397,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "AUGUSTO SEVERO",
-      "IBGE": "240130",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 2,
       "MUNICÍPIOS": "AÇU",
       "IBGE": "240020",
       "Parcela": "JUN/2022",
@@ -229,28 +38,28 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "BARAÚNA",
-      "IBGE": "240145",
+      "id": 3,
+      "MUNICÍPIOS": "AFONSO BEZERRA",
+      "IBGE": "240030",
       "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 9,
+      "Qt. ESB 40h Credenciada": 5,
       "Qt.ESB CH diferenciada Credenciada": 0,
       "Qt. ESB 40h Homologadas": 0,
       "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 8,
+      "Qt. ESB 40h Modalidade I Pagas": 5,
       "Qt. ESB 40h Modalidade II Pagas": 0,
       "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
       "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 8,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
       "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
       "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 29.436,00",
+      "Valor custeio ESB": "R$ 18.397,50",
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "BARCELONA",
-      "IBGE": "240150",
+      "id": 4,
+      "MUNICÍPIOS": "ÁGUA NOVA",
+      "IBGE": "240040",
       "Parcela": "JUN/2022",
       "Qt. ESB 40h Credenciada": 2,
       "Qt.ESB CH diferenciada Credenciada": 0,
@@ -267,7 +76,178 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 5,
+      "MUNICÍPIOS": "ALEXANDRIA",
+      "IBGE": "240050",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 7,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 7,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 7,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 25.756,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 6,
+      "MUNICÍPIOS": "ALMINO AFONSO",
+      "IBGE": "240060",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 7,
+      "MUNICÍPIOS": "ALTO DO RODRIGUES",
+      "IBGE": "240070",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 5,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 5,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 18.397,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 8,
+      "MUNICÍPIOS": "ANGICOS",
+      "IBGE": "240080",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 5,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 5,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 18.397,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 9,
+      "MUNICÍPIOS": "ANTÔNIO MARTINS",
+      "IBGE": "240090",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 10,
+      "MUNICÍPIOS": "APODI",
+      "IBGE": "240100",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 11,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 11,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 28.209,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 11,
+      "MUNICÍPIOS": "AREIA BRANCA",
+      "IBGE": "240110",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 9,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 8,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 20.850,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 12,
+      "MUNICÍPIOS": "ARÊS",
+      "IBGE": "240120",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 5,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 5,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 18.397,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 13,
+      "MUNICÍPIOS": "AUGUSTO SEVERO",
+      "IBGE": "240130",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 14,
       "MUNICÍPIOS": "BAÍA FORMOSA",
       "IBGE": "240140",
       "Parcela": "JUN/2022",
@@ -286,7 +266,45 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 15,
+      "MUNICÍPIOS": "BARAÚNA",
+      "IBGE": "240145",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 9,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 8,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 8,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 29.436,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 16,
+      "MUNICÍPIOS": "BARCELONA",
+      "IBGE": "240150",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 17,
       "MUNICÍPIOS": "BENTO FERNANDES",
       "IBGE": "240160",
       "Parcela": "JUN/2022",
@@ -305,7 +323,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 18,
       "MUNICÍPIOS": "BODÓ",
       "IBGE": "240165",
       "Parcela": "JUN/2022",
@@ -324,7 +342,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 19,
       "MUNICÍPIOS": "BOM JESUS",
       "IBGE": "240170",
       "Parcela": "JUN/2022",
@@ -343,7 +361,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 20,
       "MUNICÍPIOS": "BREJINHO",
       "IBGE": "240180",
       "Parcela": "JUN/2022",
@@ -362,26 +380,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "CAICÓ",
-      "IBGE": "240200",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 20,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 20,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 49.060,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 21,
       "MUNICÍPIOS": "CAIÇARA DO NORTE",
       "IBGE": "240185",
       "Parcela": "JUN/2022",
@@ -400,7 +399,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 22,
       "MUNICÍPIOS": "CAIÇARA DO RIO DO VENTO",
       "IBGE": "240190",
       "Parcela": "JUN/2022",
@@ -419,7 +418,26 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 23,
+      "MUNICÍPIOS": "CAICÓ",
+      "IBGE": "240200",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 20,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 20,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 49.060,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 24,
       "MUNICÍPIOS": "CAMPO REDONDO",
       "IBGE": "240210",
       "Parcela": "JUN/2022",
@@ -438,7 +456,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 25,
       "MUNICÍPIOS": "CANGUARETAMA",
       "IBGE": "240220",
       "Parcela": "JUN/2022",
@@ -457,7 +475,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 26,
       "MUNICÍPIOS": "CARAÚBAS",
       "IBGE": "240230",
       "Parcela": "JUN/2022",
@@ -476,26 +494,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "CARNAUBAIS",
-      "IBGE": "240250",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 4,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 4,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 4,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 14.718,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 27,
       "MUNICÍPIOS": "CARNAÚBA DOS DANTAS",
       "IBGE": "240240",
       "Parcela": "JUN/2022",
@@ -514,7 +513,26 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 28,
+      "MUNICÍPIOS": "CARNAUBAIS",
+      "IBGE": "240250",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 4,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 4,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 4,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 14.718,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 29,
       "MUNICÍPIOS": "CEARÁ-MIRIM",
       "IBGE": "240260",
       "Parcela": "JUN/2022",
@@ -533,7 +551,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 30,
       "MUNICÍPIOS": "CERRO CORÁ",
       "IBGE": "240270",
       "Parcela": "JUN/2022",
@@ -552,7 +570,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 31,
       "MUNICÍPIOS": "CORONEL EZEQUIEL",
       "IBGE": "240280",
       "Parcela": "JUN/2022",
@@ -571,7 +589,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 32,
       "MUNICÍPIOS": "CORONEL JOÃO PESSOA",
       "IBGE": "240290",
       "Parcela": "JUN/2022",
@@ -590,7 +608,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 33,
       "MUNICÍPIOS": "CRUZETA",
       "IBGE": "240300",
       "Parcela": "JUN/2022",
@@ -609,7 +627,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 34,
       "MUNICÍPIOS": "CURRAIS NOVOS",
       "IBGE": "240310",
       "Parcela": "JUN/2022",
@@ -628,7 +646,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 35,
       "MUNICÍPIOS": "DOUTOR SEVERIANO",
       "IBGE": "240320",
       "Parcela": "JUN/2022",
@@ -647,7 +665,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 36,
       "MUNICÍPIOS": "ENCANTO",
       "IBGE": "240330",
       "Parcela": "JUN/2022",
@@ -666,7 +684,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 37,
       "MUNICÍPIOS": "EQUADOR",
       "IBGE": "240340",
       "Parcela": "JUN/2022",
@@ -685,7 +703,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 38,
       "MUNICÍPIOS": "ESPÍRITO SANTO",
       "IBGE": "240350",
       "Parcela": "JUN/2022",
@@ -704,7 +722,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 39,
       "MUNICÍPIOS": "EXTREMOZ",
       "IBGE": "240360",
       "Parcela": "JUN/2022",
@@ -723,7 +741,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 40,
       "MUNICÍPIOS": "FELIPE GUERRA",
       "IBGE": "240370",
       "Parcela": "JUN/2022",
@@ -742,7 +760,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 41,
       "MUNICÍPIOS": "FERNANDO PEDROZA",
       "IBGE": "240375",
       "Parcela": "JUN/2022",
@@ -761,7 +779,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 42,
       "MUNICÍPIOS": "FLORÂNIA",
       "IBGE": "240380",
       "Parcela": "JUN/2022",
@@ -780,7 +798,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 43,
       "MUNICÍPIOS": "FRANCISCO DANTAS",
       "IBGE": "240390",
       "Parcela": "JUN/2022",
@@ -799,7 +817,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 44,
       "MUNICÍPIOS": "FRUTUOSO GOMES",
       "IBGE": "240400",
       "Parcela": "JUN/2022",
@@ -818,7 +836,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 45,
       "MUNICÍPIOS": "GALINHOS",
       "IBGE": "240410",
       "Parcela": "JUN/2022",
@@ -837,7 +855,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 46,
       "MUNICÍPIOS": "GOIANINHA",
       "IBGE": "240420",
       "Parcela": "JUN/2022",
@@ -856,7 +874,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 47,
       "MUNICÍPIOS": "GOVERNADOR DIX-SEPT ROSADO",
       "IBGE": "240430",
       "Parcela": "JUN/2022",
@@ -875,7 +893,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 48,
       "MUNICÍPIOS": "GROSSOS",
       "IBGE": "240440",
       "Parcela": "JUN/2022",
@@ -894,7 +912,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 49,
       "MUNICÍPIOS": "GUAMARÉ",
       "IBGE": "240450",
       "Parcela": "JUN/2022",
@@ -913,7 +931,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 50,
       "MUNICÍPIOS": "IELMO MARINHO",
       "IBGE": "240460",
       "Parcela": "JUN/2022",
@@ -932,7 +950,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 51,
       "MUNICÍPIOS": "IPANGUAÇU",
       "IBGE": "240470",
       "Parcela": "JUN/2022",
@@ -951,7 +969,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 52,
       "MUNICÍPIOS": "IPUEIRA",
       "IBGE": "240480",
       "Parcela": "JUN/2022",
@@ -970,7 +988,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 53,
       "MUNICÍPIOS": "ITAJÁ",
       "IBGE": "240485",
       "Parcela": "JUN/2022",
@@ -989,7 +1007,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 54,
       "MUNICÍPIOS": "ITAÚ",
       "IBGE": "240490",
       "Parcela": "JUN/2022",
@@ -1008,140 +1026,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "JANDAÍRA",
-      "IBGE": "240510",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "JANDUÍS",
-      "IBGE": "240520",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "JANUÁRIO CICCO",
-      "IBGE": "240530",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 4,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 1,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 15.955,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "JAPI",
-      "IBGE": "240540",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "JARDIM DE ANGICOS",
-      "IBGE": "240550",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 1,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 1,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 3.679,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "JARDIM DE PIRANHAS",
-      "IBGE": "240560",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 6,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 6,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 6,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 22.077,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "JARDIM DO SERIDÓ",
-      "IBGE": "240570",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 5,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 5,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 12.265,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 55,
       "MUNICÍPIOS": "JAÇANÃ",
       "IBGE": "240500",
       "Parcela": "JUN/2022",
@@ -1160,9 +1045,9 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "JOSÉ DA PENHA",
-      "IBGE": "240600",
+      "id": 56,
+      "MUNICÍPIOS": "JANDAÍRA",
+      "IBGE": "240510",
       "Parcela": "JUN/2022",
       "Qt. ESB 40h Credenciada": 3,
       "Qt.ESB CH diferenciada Credenciada": 0,
@@ -1179,7 +1064,121 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 57,
+      "MUNICÍPIOS": "JANDUÍS",
+      "IBGE": "240520",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 58,
+      "MUNICÍPIOS": "JANUÁRIO CICCO",
+      "IBGE": "240530",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 4,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 1,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 15.955,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 59,
+      "MUNICÍPIOS": "JAPI",
+      "IBGE": "240540",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 60,
+      "MUNICÍPIOS": "JARDIM DE ANGICOS",
+      "IBGE": "240550",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 1,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 1,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 3.679,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 61,
+      "MUNICÍPIOS": "JARDIM DE PIRANHAS",
+      "IBGE": "240560",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 6,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 6,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 6,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 22.077,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 62,
+      "MUNICÍPIOS": "JARDIM DO SERIDÓ",
+      "IBGE": "240570",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 5,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 5,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 12.265,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 63,
       "MUNICÍPIOS": "JOÃO CÂMARA",
       "IBGE": "240580",
       "Parcela": "JUN/2022",
@@ -1198,7 +1197,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 64,
       "MUNICÍPIOS": "JOÃO DIAS",
       "IBGE": "240590",
       "Parcela": "JUN/2022",
@@ -1217,7 +1216,26 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 65,
+      "MUNICÍPIOS": "JOSÉ DA PENHA",
+      "IBGE": "240600",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 66,
       "MUNICÍPIOS": "JUCURUTU",
       "IBGE": "240610",
       "Parcela": "JUN/2022",
@@ -1236,7 +1254,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 67,
       "MUNICÍPIOS": "JUNDIÁ",
       "IBGE": "240615",
       "Parcela": "JUN/2022",
@@ -1255,7 +1273,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 68,
       "MUNICÍPIOS": "LAGOA D'ANTA",
       "IBGE": "240620",
       "Parcela": "JUN/2022",
@@ -1274,7 +1292,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 69,
       "MUNICÍPIOS": "LAGOA DE PEDRAS",
       "IBGE": "240630",
       "Parcela": "JUN/2022",
@@ -1293,7 +1311,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 70,
       "MUNICÍPIOS": "LAGOA DE VELHOS",
       "IBGE": "240640",
       "Parcela": "JUN/2022",
@@ -1312,7 +1330,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 71,
       "MUNICÍPIOS": "LAGOA NOVA",
       "IBGE": "240650",
       "Parcela": "JUN/2022",
@@ -1331,7 +1349,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 72,
       "MUNICÍPIOS": "LAGOA SALGADA",
       "IBGE": "240660",
       "Parcela": "JUN/2022",
@@ -1350,7 +1368,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 73,
       "MUNICÍPIOS": "LAJES",
       "IBGE": "240670",
       "Parcela": "JUN/2022",
@@ -1369,7 +1387,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 74,
       "MUNICÍPIOS": "LAJES PINTADAS",
       "IBGE": "240680",
       "Parcela": "JUN/2022",
@@ -1388,7 +1406,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 75,
       "MUNICÍPIOS": "LUCRÉCIA",
       "IBGE": "240690",
       "Parcela": "JUN/2022",
@@ -1407,7 +1425,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 76,
       "MUNICÍPIOS": "LUÍS GOMES",
       "IBGE": "240700",
       "Parcela": "JUN/2022",
@@ -1426,26 +1444,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "MACAU",
-      "IBGE": "240720",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 10,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 10,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 10,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 36.795,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 77,
       "MUNICÍPIOS": "MACAÍBA",
       "IBGE": "240710",
       "Parcela": "JUN/2022",
@@ -1464,7 +1463,26 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 78,
+      "MUNICÍPIOS": "MACAU",
+      "IBGE": "240720",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 10,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 10,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 10,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 36.795,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 79,
       "MUNICÍPIOS": "MAJOR SALES",
       "IBGE": "240725",
       "Parcela": "JUN/2022",
@@ -1483,7 +1501,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 80,
       "MUNICÍPIOS": "MARCELINO VIEIRA",
       "IBGE": "240730",
       "Parcela": "JUN/2022",
@@ -1502,7 +1520,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 81,
       "MUNICÍPIOS": "MARTINS",
       "IBGE": "240740",
       "Parcela": "JUN/2022",
@@ -1521,7 +1539,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 82,
       "MUNICÍPIOS": "MAXARANGUAPE",
       "IBGE": "240750",
       "Parcela": "JUN/2022",
@@ -1540,7 +1558,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 83,
       "MUNICÍPIOS": "MESSIAS TARGINO",
       "IBGE": "240760",
       "Parcela": "JUN/2022",
@@ -1559,7 +1577,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 84,
       "MUNICÍPIOS": "MONTANHAS",
       "IBGE": "240770",
       "Parcela": "JUN/2022",
@@ -1578,7 +1596,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 85,
       "MUNICÍPIOS": "MONTE ALEGRE",
       "IBGE": "240780",
       "Parcela": "JUN/2022",
@@ -1597,7 +1615,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 86,
       "MUNICÍPIOS": "MONTE DAS GAMELEIRAS",
       "IBGE": "240790",
       "Parcela": "JUN/2022",
@@ -1616,7 +1634,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 87,
       "MUNICÍPIOS": "MOSSORÓ",
       "IBGE": "240800",
       "Parcela": "JUN/2022",
@@ -1635,7 +1653,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 88,
       "MUNICÍPIOS": "NATAL",
       "IBGE": "240810",
       "Parcela": "JUN/2022",
@@ -1654,26 +1672,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "NOVA CRUZ",
-      "IBGE": "240830",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 15,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 15,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 38.021,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 89,
       "MUNICÍPIOS": "NÍSIA FLORESTA",
       "IBGE": "240820",
       "Parcela": "JUN/2022",
@@ -1692,7 +1691,26 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 90,
+      "MUNICÍPIOS": "NOVA CRUZ",
+      "IBGE": "240830",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 15,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 15,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 38.021,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 91,
       "MUNICÍPIOS": "OLHO-D'ÁGUA DO BORGES",
       "IBGE": "240840",
       "Parcela": "JUN/2022",
@@ -1711,7 +1729,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 92,
       "MUNICÍPIOS": "OURO BRANCO",
       "IBGE": "240850",
       "Parcela": "JUN/2022",
@@ -1730,7 +1748,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 93,
       "MUNICÍPIOS": "PARANÁ",
       "IBGE": "240860",
       "Parcela": "JUN/2022",
@@ -1749,26 +1767,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "PARAZINHO",
-      "IBGE": "240880",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 94,
       "MUNICÍPIOS": "PARAÚ",
       "IBGE": "240870",
       "Parcela": "JUN/2022",
@@ -1787,7 +1786,26 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 95,
+      "MUNICÍPIOS": "PARAZINHO",
+      "IBGE": "240880",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 96,
       "MUNICÍPIOS": "PARELHAS",
       "IBGE": "240890",
       "Parcela": "JUN/2022",
@@ -1806,7 +1824,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 97,
       "MUNICÍPIOS": "PARNAMIRIM",
       "IBGE": "240325",
       "Parcela": "JUN/2022",
@@ -1825,7 +1843,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 98,
       "MUNICÍPIOS": "PASSA E FICA",
       "IBGE": "240910",
       "Parcela": "JUN/2022",
@@ -1844,7 +1862,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 99,
       "MUNICÍPIOS": "PASSAGEM",
       "IBGE": "240920",
       "Parcela": "JUN/2022",
@@ -1863,7 +1881,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 100,
       "MUNICÍPIOS": "PATU",
       "IBGE": "240930",
       "Parcela": "JUN/2022",
@@ -1882,7 +1900,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 101,
       "MUNICÍPIOS": "PAU DOS FERROS",
       "IBGE": "240940",
       "Parcela": "JUN/2022",
@@ -1901,7 +1919,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 102,
       "MUNICÍPIOS": "PEDRA GRANDE",
       "IBGE": "240950",
       "Parcela": "JUN/2022",
@@ -1920,7 +1938,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 103,
       "MUNICÍPIOS": "PEDRA PRETA",
       "IBGE": "240960",
       "Parcela": "JUN/2022",
@@ -1939,7 +1957,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 104,
       "MUNICÍPIOS": "PEDRO AVELINO",
       "IBGE": "240970",
       "Parcela": "JUN/2022",
@@ -1958,7 +1976,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 105,
       "MUNICÍPIOS": "PEDRO VELHO",
       "IBGE": "240980",
       "Parcela": "JUN/2022",
@@ -1977,7 +1995,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 106,
       "MUNICÍPIOS": "PENDÊNCIAS",
       "IBGE": "240990",
       "Parcela": "JUN/2022",
@@ -1996,7 +2014,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 107,
       "MUNICÍPIOS": "PILÕES",
       "IBGE": "241000",
       "Parcela": "JUN/2022",
@@ -2015,45 +2033,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "PORTALEGRE",
-      "IBGE": "241020",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "PORTO DO MANGUE",
-      "IBGE": "241025",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 108,
       "MUNICÍPIOS": "POÇO BRANCO",
       "IBGE": "241010",
       "Parcela": "JUN/2022",
@@ -2072,7 +2052,45 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 109,
+      "MUNICÍPIOS": "PORTALEGRE",
+      "IBGE": "241020",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 110,
+      "MUNICÍPIOS": "PORTO DO MANGUE",
+      "IBGE": "241025",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 111,
       "MUNICÍPIOS": "PUREZA",
       "IBGE": "241040",
       "Parcela": "JUN/2022",
@@ -2091,7 +2109,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 112,
       "MUNICÍPIOS": "RAFAEL FERNANDES",
       "IBGE": "241050",
       "Parcela": "JUN/2022",
@@ -2110,7 +2128,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 113,
       "MUNICÍPIOS": "RAFAEL GODEIRO",
       "IBGE": "241060",
       "Parcela": "JUN/2022",
@@ -2129,7 +2147,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 114,
       "MUNICÍPIOS": "RIACHO DA CRUZ",
       "IBGE": "241070",
       "Parcela": "JUN/2022",
@@ -2148,7 +2166,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 115,
       "MUNICÍPIOS": "RIACHO DE SANTANA",
       "IBGE": "241080",
       "Parcela": "JUN/2022",
@@ -2167,7 +2185,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 116,
       "MUNICÍPIOS": "RIACHUELO",
       "IBGE": "241090",
       "Parcela": "JUN/2022",
@@ -2186,7 +2204,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 117,
       "MUNICÍPIOS": "RIO DO FOGO",
       "IBGE": "240895",
       "Parcela": "JUN/2022",
@@ -2205,7 +2223,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 118,
       "MUNICÍPIOS": "RODOLFO FERNANDES",
       "IBGE": "241100",
       "Parcela": "JUN/2022",
@@ -2224,7 +2242,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 119,
       "MUNICÍPIOS": "RUY BARBOSA",
       "IBGE": "241110",
       "Parcela": "JUN/2022",
@@ -2243,7 +2261,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 120,
       "MUNICÍPIOS": "SANTA CRUZ",
       "IBGE": "241120",
       "Parcela": "JUN/2022",
@@ -2262,7 +2280,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 121,
       "MUNICÍPIOS": "SANTA MARIA",
       "IBGE": "240933",
       "Parcela": "JUN/2022",
@@ -2281,7 +2299,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 122,
       "MUNICÍPIOS": "SANTANA DO MATOS",
       "IBGE": "241140",
       "Parcela": "JUN/2022",
@@ -2300,7 +2318,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 123,
       "MUNICÍPIOS": "SANTANA DO SERIDÓ",
       "IBGE": "241142",
       "Parcela": "JUN/2022",
@@ -2319,7 +2337,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 124,
       "MUNICÍPIOS": "SANTO ANTÔNIO",
       "IBGE": "241150",
       "Parcela": "JUN/2022",
@@ -2338,178 +2356,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "SENADOR ELÓI DE SOUZA",
-      "IBGE": "241310",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SENADOR GEORGINO AVELINO",
-      "IBGE": "241320",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SERRA CAIADA",
-      "IBGE": "241030",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 5,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 5,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 18.397,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SERRA DE SÃO BENTO",
-      "IBGE": "241330",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SERRA DO MEL",
-      "IBGE": "241335",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 4,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 4,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 4,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 14.718,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SERRA NEGRA DO NORTE",
-      "IBGE": "241340",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SERRINHA",
-      "IBGE": "241350",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 3,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 3,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 11.038,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SERRINHA DOS PINTOS",
-      "IBGE": "241355",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SEVERIANO MELO",
-      "IBGE": "241360",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 4,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 4,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 4,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 14.718,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 125,
       "MUNICÍPIOS": "SÃO BENTO DO NORTE",
       "IBGE": "241160",
       "Parcela": "JUN/2022",
@@ -2528,7 +2375,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 126,
       "MUNICÍPIOS": "SÃO BENTO DO TRAIRÍ",
       "IBGE": "241170",
       "Parcela": "JUN/2022",
@@ -2547,7 +2394,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 127,
       "MUNICÍPIOS": "SÃO FERNANDO",
       "IBGE": "241180",
       "Parcela": "JUN/2022",
@@ -2566,7 +2413,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 128,
       "MUNICÍPIOS": "SÃO FRANCISCO DO OESTE",
       "IBGE": "241190",
       "Parcela": "JUN/2022",
@@ -2585,7 +2432,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 129,
       "MUNICÍPIOS": "SÃO GONÇALO DO AMARANTE",
       "IBGE": "241200",
       "Parcela": "JUN/2022",
@@ -2604,64 +2451,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "SÃO JOSÉ DE MIPIBU",
-      "IBGE": "241220",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 21,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 20,
-      "Qt. ESB 40h Modalidade II Pagas": 1,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 53.977,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SÃO JOSÉ DO CAMPESTRE",
-      "IBGE": "241230",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 6,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 6,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 6,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 22.077,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "SÃO JOSÉ DO SERIDÓ",
-      "IBGE": "241240",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 6.132,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 130,
       "MUNICÍPIOS": "SÃO JOÃO DO SABUGI",
       "IBGE": "241210",
       "Parcela": "JUN/2022",
@@ -2680,7 +2470,64 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 131,
+      "MUNICÍPIOS": "SÃO JOSÉ DE MIPIBU",
+      "IBGE": "241220",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 21,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 20,
+      "Qt. ESB 40h Modalidade II Pagas": 1,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 53.977,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 132,
+      "MUNICÍPIOS": "SÃO JOSÉ DO CAMPESTRE",
+      "IBGE": "241230",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 6,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 6,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 6,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 22.077,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 133,
+      "MUNICÍPIOS": "SÃO JOSÉ DO SERIDÓ",
+      "IBGE": "241240",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 6.132,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 134,
       "MUNICÍPIOS": "SÃO MIGUEL",
       "IBGE": "241250",
       "Parcela": "JUN/2022",
@@ -2699,7 +2546,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 135,
       "MUNICÍPIOS": "SÃO MIGUEL DO GOSTOSO",
       "IBGE": "241255",
       "Parcela": "JUN/2022",
@@ -2718,7 +2565,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 136,
       "MUNICÍPIOS": "SÃO PAULO DO POTENGI",
       "IBGE": "241260",
       "Parcela": "JUN/2022",
@@ -2737,7 +2584,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 137,
       "MUNICÍPIOS": "SÃO PEDRO",
       "IBGE": "241270",
       "Parcela": "JUN/2022",
@@ -2756,7 +2603,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 138,
       "MUNICÍPIOS": "SÃO RAFAEL",
       "IBGE": "241280",
       "Parcela": "JUN/2022",
@@ -2775,7 +2622,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 139,
       "MUNICÍPIOS": "SÃO TOMÉ",
       "IBGE": "241290",
       "Parcela": "JUN/2022",
@@ -2794,7 +2641,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 140,
       "MUNICÍPIOS": "SÃO VICENTE",
       "IBGE": "241300",
       "Parcela": "JUN/2022",
@@ -2813,7 +2660,178 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 141,
+      "MUNICÍPIOS": "SENADOR ELÓI DE SOUZA",
+      "IBGE": "241310",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 142,
+      "MUNICÍPIOS": "SENADOR GEORGINO AVELINO",
+      "IBGE": "241320",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 143,
+      "MUNICÍPIOS": "SERRA CAIADA",
+      "IBGE": "241030",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 5,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 5,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 5,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 18.397,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 144,
+      "MUNICÍPIOS": "SERRA DE SÃO BENTO",
+      "IBGE": "241330",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 145,
+      "MUNICÍPIOS": "SERRA DO MEL",
+      "IBGE": "241335",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 4,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 4,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 4,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 14.718,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 146,
+      "MUNICÍPIOS": "SERRA NEGRA DO NORTE",
+      "IBGE": "241340",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 147,
+      "MUNICÍPIOS": "SERRINHA",
+      "IBGE": "241350",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 3,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 3,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 3,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 11.038,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 148,
+      "MUNICÍPIOS": "SERRINHA DOS PINTOS",
+      "IBGE": "241355",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 2,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 2,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 7.359,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 149,
+      "MUNICÍPIOS": "SEVERIANO MELO",
+      "IBGE": "241360",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 4,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 4,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 4,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 14.718,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 150,
       "MUNICÍPIOS": "SÍTIO NOVO",
       "IBGE": "241370",
       "Parcela": "JUN/2022",
@@ -2832,7 +2850,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 151,
       "MUNICÍPIOS": "TABOLEIRO GRANDE",
       "IBGE": "241380",
       "Parcela": "JUN/2022",
@@ -2851,7 +2869,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 152,
       "MUNICÍPIOS": "TAIPU",
       "IBGE": "241390",
       "Parcela": "JUN/2022",
@@ -2870,7 +2888,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 153,
       "MUNICÍPIOS": "TANGARÁ",
       "IBGE": "241400",
       "Parcela": "JUN/2022",
@@ -2889,7 +2907,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 154,
       "MUNICÍPIOS": "TENENTE ANANIAS",
       "IBGE": "241410",
       "Parcela": "JUN/2022",
@@ -2908,7 +2926,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 155,
       "MUNICÍPIOS": "TENENTE LAURENTINO CRUZ",
       "IBGE": "241415",
       "Parcela": "JUN/2022",
@@ -2927,7 +2945,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 156,
       "MUNICÍPIOS": "TIBAU",
       "IBGE": "241105",
       "Parcela": "JUN/2022",
@@ -2946,7 +2964,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 157,
       "MUNICÍPIOS": "TIBAU DO SUL",
       "IBGE": "241420",
       "Parcela": "JUN/2022",
@@ -2965,7 +2983,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 158,
       "MUNICÍPIOS": "TIMBAÚBA DOS BATISTAS",
       "IBGE": "241430",
       "Parcela": "JUN/2022",
@@ -2984,7 +3002,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 159,
       "MUNICÍPIOS": "TOUROS",
       "IBGE": "241440",
       "Parcela": "JUN/2022",
@@ -3003,7 +3021,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 160,
       "MUNICÍPIOS": "TRIUNFO POTIGUAR",
       "IBGE": "241445",
       "Parcela": "JUN/2022",
@@ -3022,7 +3040,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 161,
       "MUNICÍPIOS": "UMARIZAL",
       "IBGE": "241450",
       "Parcela": "JUN/2022",
@@ -3041,7 +3059,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
+      "id": 162,
       "MUNICÍPIOS": "UPANEMA",
       "IBGE": "241460",
       "Parcela": "JUN/2022",
@@ -3060,83 +3078,7 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "VENHA-VER",
-      "IBGE": "241475",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 2,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 2,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 2,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 7.359,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "VERA CRUZ",
-      "IBGE": "241480",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 6,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 6,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 6,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 22.077,00",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "VILA FLOR",
-      "IBGE": "241500",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 1,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 1,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 3.679,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
-      "MUNICÍPIOS": "VIÇOSA",
-      "IBGE": "241490",
-      "Parcela": "JUN/2022",
-      "Qt. ESB 40h Credenciada": 1,
-      "Qt.ESB CH diferenciada Credenciada": 0,
-      "Qt. ESB 40h Homologadas": 0,
-      "Qt.ESB CH diferenciada Homologadas": 0,
-      "Qt. ESB 40h Modalidade I Pagas": 1,
-      "Qt. ESB 40h Modalidade II Pagas": 0,
-      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
-      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
-      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
-      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
-      "Qt. ESB Implantação (somente ESB 40h)": 0,
-      "Valor custeio ESB": "R$ 3.679,50",
-      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
-    },
-    {
-      "UF": "RN",
+      "id": 163,
       "MUNICÍPIOS": "VÁRZEA",
       "IBGE": "241470",
       "Parcela": "JUN/2022",
@@ -3155,9 +3097,9 @@
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     },
     {
-      "UF": "RN",
-      "MUNICÍPIOS": "ÁGUA NOVA",
-      "IBGE": "240040",
+      "id": 164,
+      "MUNICÍPIOS": "VENHA-VER",
+      "IBGE": "241475",
       "Parcela": "JUN/2022",
       "Qt. ESB 40h Credenciada": 2,
       "Qt.ESB CH diferenciada Credenciada": 0,
@@ -3172,6 +3114,62 @@
       "Qt. ESB Implantação (somente ESB 40h)": 0,
       "Valor custeio ESB": "R$ 7.359,00",
       "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 165,
+      "MUNICÍPIOS": "VERA CRUZ",
+      "IBGE": "241480",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 6,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 6,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 6,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 22.077,00",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 166,
+      "MUNICÍPIOS": "VIÇOSA",
+      "IBGE": "241490",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 1,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 1,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 3.679,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
+    },
+    {
+      "id": 167,
+      "MUNICÍPIOS": "VILA FLOR",
+      "IBGE": "241500",
+      "Parcela": "JUN/2022",
+      "Qt. ESB 40h Credenciada": 1,
+      "Qt.ESB CH diferenciada Credenciada": 0,
+      "Qt. ESB 40h Homologadas": 0,
+      "Qt.ESB CH diferenciada Homologadas": 0,
+      "Qt. ESB 40h Modalidade I Pagas": 1,
+      "Qt. ESB 40h Modalidade II Pagas": 0,
+      "Qt. ESB CH diferenciada - 30h semanais Pagas": 0,
+      "Qt. ESB CH diferenciada - 20h semanais Pagas": 0,
+      "Qt. ESB 40h Modalidade I - Quilombolas/ Assentados Pagas": 1,
+      "Qt. ESB 40h Modalidade II - Quilombolas/ Assentados Pagas": 0,
+      "Qt. ESB Implantação (somente ESB 40h)": 0,
+      "Valor custeio ESB": "R$ 3.679,50",
+      "Valor Implantação (somente ESB 40h)": "R$ 0,00"
     }
   ]
-}
